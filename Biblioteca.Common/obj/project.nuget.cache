@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nv1a1Wyl8Kxy8dw2liAEB7CuI0w0LAjIQIF6nhJ1uN+CKDZirVJHl5kO0qzDGXgJ+ybw2vHamYa1PFgdNxF39g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manuel Araniva\\Documents\\Ciclo 02 2024\\DSE\\Laboratorio\\Semana 4\\Guia4DSE\\Biblioteca.Common\\Biblioteca.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manuel Araniva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
